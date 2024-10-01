@@ -11,4 +11,4 @@ public class ekspresi2 {
 		System.out.println(2.0 + 10 / 3 * 2.5 - 6/4);
 	}
 
-}
+} 

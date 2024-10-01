@@ -9,7 +9,7 @@ public class ekspresi1 {
 		System.out.println(14%4);
 		System.out.println(32/5);
 		System.out.println(32%5);
-		System.out.println(84/10);
+		System.out.println(84/10); 
 		System.out.println(8421%10);
 		System.out.println(8421%100);
 		System.out.println(8421%1000);

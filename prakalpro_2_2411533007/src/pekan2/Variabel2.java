@@ -9,7 +9,7 @@ public class Variabel2 {
 		x = 4 + 7;
 		System.out.println("Sekarang x menjadi " + x);	// now x
 		int y=5;
-		double z=13;
+		double z=13; 
 		System.out.println(y);
 		System.out.println(z);
 		double nilai = (95.1 + 71.9 + 82.6) / 3.0;
