@@ -14,4 +14,4 @@ public class GabungString {
 		System.out.println("Nilai akhir: " + (95.1 + 71.9) / 2);
 	}
 
-}
+} 

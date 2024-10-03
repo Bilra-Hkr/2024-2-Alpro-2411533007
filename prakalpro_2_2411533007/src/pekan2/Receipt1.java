@@ -8,10 +8,10 @@ class Receipt1 {
 		double tip = subtotal * .15;
 		double total =  subtotal + tax + tip;
 		 
-		System.out.println("Subtotal: " + subtotal);
-		System.out.println("Tax: " + tax);
-		System.out.println("Tip: " + tip);
-		System.out.println("Total: " + total);
+		System.out.println("Subtotal: " + subtotal); 
+		System.out.println("Tax: " + tax); 
+		System.out.println("Tip: " + tip); 
+		System.out.println("Total: " + total);  
 	}
 
 }
