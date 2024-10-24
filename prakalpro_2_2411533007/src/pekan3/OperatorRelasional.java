@@ -15,7 +15,7 @@ public class OperatorRelasional {
 		A2 = keyboard.nextInt();
 		keyboard.close();
 		hasil = A1 > A2; // apakah A1 lebih besar A2?
-		System.out.println("A1 > A2 + " + hasil);
+		System.out.println("A1 > A2 = " + hasil);
 		hasil = A1 < A2; // apakah A1 lebih kecil A2?
 		System.out.println("A1 < A2 = " + hasil);
 		hasil = A1 >= A2; //  apakah A1 lebih besar sama dengan A2?
