@@ -18,9 +18,9 @@ public class perulanganFor4 {
 			if (i<batas) {
 				System.out.print(" + ");
 			} else {
-				System.out.print(" = ");
+				System.out.println();
+				System.out.println("Jumlah = " + jumlah);
 			}
 		}
-		System.out.print(jumlah);
 	}
 }
