@@ -19,7 +19,7 @@ public class perulanganFor4 {
 				System.out.print(" + ");
 			} else {
 				System.out.println();
-				System.out.println("Jumlah = " + jumlah);
+				System.out.println("Jumlah = " + jumlah); 
 			}
 		}
 	}
